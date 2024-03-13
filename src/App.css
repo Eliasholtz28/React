@@ -1,0 +1,17 @@
+.cart-widget {
+  background-color: white;
+  border-radius: 20%;
+  padding: 3px;
+}
+
+.cart-widget span {
+  background-color: dimgray;
+  color: white;
+  border-radius: 50%;
+  padding: 2px;
+  font-weight: 500;
+}
+
+.cart-widget img {
+  width: 30px;
+}
